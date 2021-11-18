@@ -6,4 +6,5 @@ As a result, we have:
 - colors as in the layout
 - tagline
 - cute chicks :)
-![eco](https://user-images.githubusercontent.com/58570032/142501987-8bd38186-2be1-4d93-a3ab-ecdaeb94ba19.png)
+
+![POAP for UMA](https://user-images.githubusercontent.com/58570032/142502027-4fd3d722-d90a-409d-8613-df1811ba2855.png)
